@@ -33,6 +33,4 @@ I wanted to build a platform that feels as smooth as a native app. DigiTools all
 
 ![DigiTools](./public/UI/DigitoolsUI.png)
 
-> Add a screenshot of the project inside the `public` folder and name it `screenshot.png`.
-
 ### GitHub: [FahmidaAkterShimu](https://github.com/FahmidaAkterShimu)
